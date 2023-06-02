@@ -5,8 +5,8 @@ public class Main {
         Product pd=new Product();
        System.out.println(pd.getMethod());
        System.out.println(pd.setMethod(0.2020));
-        System.out.println(pd.getMethod(2));
-        System.out.println(pd.getMethod(2,6));
+       System.out.println(pd.getMethod(2));
+       System.out.println(pd.getMethod(2,6));
 
     }
 }
