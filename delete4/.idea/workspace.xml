@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43747349-6dda-438f-a531-85fd70695a7b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Delete/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Delete/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deleted/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deleted/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deleted/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deleted/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deleted/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deleted/Deleted.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deleted/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deleted/src/day1/Saw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete3/delete3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete3/src/Class1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QlDSAmDuVSHdpgPHOa25qJih9A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/saini/IdeaProjects/FullStack/delete4&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/saini/IdeaProjects/FullStack/delete4/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43747349-6dda-438f-a531-85fd70695a7b" name="Changes" comment="" />
+      <created>1685919274144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685919274144</updated>
+    </task>
+    <servers />
+  </component>
+</project>
